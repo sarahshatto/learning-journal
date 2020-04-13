@@ -14,3 +14,6 @@
 # This is a second unordered list
 2. This is another list
 2. This is still another list
+
+![random sea otter picture](https://cdn.imgbin.com/4/0/13/imgbin-cartoon-otter-qHpNBHVCZyEucU9qtYMQ9F3gV.jpg)
+
