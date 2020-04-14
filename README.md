@@ -92,5 +92,5 @@ _ | 3 lbs. Skirt steak
 
 
 
-![random sea otter picture](https://cdn.imgbin.com/4/0/13/imgbin-cartoon-otter-qHpNBHVCZyEucU9qtYMQ9F3gV.jpg)
+![self portrait](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/0400bd95337683.5e9554e2ccd0b.jpg)
 
