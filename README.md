@@ -16,6 +16,10 @@ A growth mindset is the idea that we're all in the process of learning something
 One of my favorite foods by far. *Carne Asada street tacos... Carne Asada burritos...with guac, Carne Asada Nachos*... the list goes on and on.
 <br></br> 
 
+![carne asada finished](https://images.unsplash.com/photo-1586840239918-bbbc9cfff948?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60)
+<br>
+<br>
+<br>
 *The secret is in the marinade.*
 <br></br> 
 
