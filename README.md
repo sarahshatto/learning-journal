@@ -11,17 +11,20 @@ A growth mindset is the idea that we're all in the process of learning something
 <br></br><br></br><br></br><br></br>
 
 
-### I had Carne Asada last night. And it was delicious.
+  
+### I had Carne Asada last night. And it was delicious. :heart_eyes: :drooling_face:
 
 One of my favorite foods by far. *Carne Asada street tacos... Carne Asada burritos...with guac, Carne Asada Nachos*... the list goes on and on.
 <br></br> 
 
+  
 ![carne asada finished](https://images.unsplash.com/photo-1586840239918-bbbc9cfff948?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60)
 <br>
 <br>
 <br>
 *The secret is in the marinade.*
 <br></br> 
+
 
 **If you too would love some great carne asada, here's what you'll need:**
 
@@ -40,7 +43,9 @@ One of my favorite foods by far. *Carne Asada street tacos... Carne Asada burrit
 - 1 tsp. crushed red pepper flakes (optional)
 - 3 lbs. Skirt steak
 
-![marinade gif](https://media3.giphy.com/media/l4SHS5CojUqEpZsEI4/giphy.gif)
+<p align="center">
+  <img src="https://media3.giphy.com/media/l4SHS5CojUqEpZsEI4/giphy.gif">
+</p>
 
 # After you've gathered your ingredients...
 1. Whisk all the marinade ingredients into a bowl.
@@ -50,7 +55,9 @@ One of my favorite foods by far. *Carne Asada street tacos... Carne Asada burrit
 
 # And there you have it... 
 
-![carne asada gif](https://media3.giphy.com/media/lONiIfqqm0My4o1bPW/giphy.gif)
+<p align="center">
+  <img src="https://media3.giphy.com/media/lONiIfqqm0My4o1bPW/giphy.gif">
+</p>
 
 
 ## Grocery List
@@ -68,6 +75,7 @@ _ | crushed red pepper flakes
 _ | 3 lbs. Skirt steak
 
 # Enjoy! 
+
 
 ![random sea otter picture](https://cdn.imgbin.com/4/0/13/imgbin-cartoon-otter-qHpNBHVCZyEucU9qtYMQ9F3gV.jpg)
 
