@@ -21,7 +21,7 @@ One of my favorite foods by far. *Carne Asada street tacos... Carne Asada burrit
 
 **If you too would love some great carne asada, here's what you'll need:**
 
-- 1.1/3 cup olive oil
+- 1 1/3 cup olive oil
 - 1/4 cup soy sauce
 - 1 lemon or lime (juiced)
 - 2 T. orange juice
@@ -36,15 +36,34 @@ One of my favorite foods by far. *Carne Asada street tacos... Carne Asada burrit
 - 1 tsp. crushed red pepper flakes (optional)
 - 3 lbs. Skirt steak
 
+![marinade gif](https://media3.giphy.com/media/l4SHS5CojUqEpZsEI4/giphy.gif)
+
 # After you've gathered your ingredients...
 1. Whisk all the marinade ingredients into a bowl.
 1. Add meat and marinade to a large plastic bag. Marinate for 4 or more hours, or overnight.
 1. Barbecue on high heat, until charred on the surface, and cooked to medium-rare or medium.
--if you can't use a barbeque, try a cast iron!
+<br> -if you can't use a barbeque, try a cast iron!
 
-## And there you have it... 
+# And there you have it... 
 
 ![carne asada gif](https://media3.giphy.com/media/lONiIfqqm0My4o1bPW/giphy.gif)
+
+
+## Grocery List
+
+Basics | Produce
+------------ | -------------
+olive oil | Lime
+Soy Sauce | Lemons (2)
+Orange Juice | Onion
+Vinegar| Cilantro
+Salt | Garlic
+Pepper | Serrano pepper
+_ | chili powder
+_ | crushed red pepper flakes
+_ | 3 lbs. Skirt steak
+
+# Enjoy! 
 
 ![random sea otter picture](https://cdn.imgbin.com/4/0/13/imgbin-cartoon-otter-qHpNBHVCZyEucU9qtYMQ9F3gV.jpg)
 
