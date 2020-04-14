@@ -1,5 +1,6 @@
 # learning-journal
 ## Code 102 learning journal
+### Lad 01b
 
 ### Growth Mindset
 A growth mindset is the idea that we're all in the process of learning something new- and we're all in different phases of learning as "forever students". New challenges are just new opportunities. Obstacles are still difficult, but not impossible. Less comparing and and more cheering on of yourself and others around you to be the best we can all be together. Criticism is not a personal attack but is constructive feedback, urging you on to be better. Seeing the opportunity to get discouraged and choosing to persist instead. 
