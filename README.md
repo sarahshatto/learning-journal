@@ -15,7 +15,7 @@ A growth mindset is the idea that we're all in the process of learning something
 
 
   
-### I had Carne Asada last night. And it was delicious. :heart_eyes: :drooling_face:
+### I had Carne Asada last night. And it was delicious. 
 
 One of my favorite foods by far. *Carne Asada street tacos... Carne Asada burritos...with guac, Carne Asada Nachos*... the list goes on and on.
 <br><br><br>
