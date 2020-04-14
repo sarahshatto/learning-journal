@@ -12,7 +12,7 @@ Code 102 learning journal
 ## Lab02
 - Demonstrating markdown learning
   - you gon' learn today
-  <br>- [Link to Lab02b](./Lab02b.md)
+  <br>- [Link to Lab02](./Lab02.md)
 
 ## ReadReflection01
 - Further demonstration on Markdown techniques
