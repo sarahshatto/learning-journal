@@ -83,3 +83,6 @@ Added features:
 - File manager 
 - Compiler 
 - Debrugger
+
+
+- Adding random stuff to test ACP methods 
