@@ -8,14 +8,43 @@ A growth mindset is the idea that we're all in the process of learning something
 - Be inspired by the success of others around you, and ask for help on how to get there. (Comparison is the enemy)
 - Anything worth learning requires practice and failure. #Failup
 - Just because it's hard doesn't mean you shouldn't try. 
+<br></br><br></br><br></br><br></br>
 
-1. This is a numbered list
-1. This is another in the list
-1. Another one
 
-# This is a second unordered list
-2. This is another list
-2. This is still another list
+### I had Carne Asada last night. And it was delicious.
+
+One of my favorite foods by far. *Carne Asada street tacos... Carne Asada burritos...with guac, Carne Asada Nachos*... the list goes on and on.
+<br></br> 
+
+*The secret is in the marinade.*
+<br></br> 
+
+**If you too would love some great carne asada, here's what you'll need:**
+
+- 1.1/3 cup olive oil
+- 1/4 cup soy sauce
+- 1 lemon or lime (juiced)
+- 2 T. orange juice
+- 2 T. vinegar
+- 1/2 cup diced onion
+- 1/4 cup diced cilantro
+- 4 cloves garlic (crushed)
+- 1 Serrano pepper sliced
+- 2 tsp. salt
+- 2 tsp. chili powder
+- 1 tsp. black pepper
+- 1 tsp. crushed red pepper flakes (optional)
+- 3 lbs. Skirt steak
+
+# After you've gathered your ingredients...
+1. Whisk all the marinade ingredients into a bowl.
+1. Add meat and marinade to a large plastic bag. Marinate for 4 or more hours, or overnight.
+1. Barbecue on high heat, until charred on the surface, and cooked to medium-rare or medium.
+-if you can't use a barbeque, try a cast iron!
+
+## And there you have it... 
+
+![carne asada gif](https://media3.giphy.com/media/lONiIfqqm0My4o1bPW/giphy.gif)
 
 ![random sea otter picture](https://cdn.imgbin.com/4/0/13/imgbin-cartoon-otter-qHpNBHVCZyEucU9qtYMQ9F3gV.jpg)
 
