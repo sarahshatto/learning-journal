@@ -10,8 +10,8 @@
   - [Lab02](./Lab02.md)
   - Lab03
 - Reflections
-  - [Reading Reflection 01](./ReadReflection01) 
-  - [Reading Reflection 02](./ReadReflection02)
+  - [Reading Reflection 01](./ReadReflection01.md) 
+  - [Reading Reflection 02](./ReadReflection02.md)
   - Reading Reflection 03 
   
   ></p>
