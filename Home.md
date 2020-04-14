@@ -7,7 +7,7 @@
 # TABLE OF CONTENTS
 - Labs
   - Lab01
-  - [Lab02](./learning-journal/Lab02.md)
+  - [Lab02](./Lab02.md)
   - Lab03
 - Reflections
   - Reading Reflection 01
