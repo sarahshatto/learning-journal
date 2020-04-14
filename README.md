@@ -8,14 +8,17 @@ A growth mindset is the idea that we're all in the process of learning something
 - Be inspired by the success of others around you, and ask for help on how to get there. (Comparison is the enemy)
 - Anything worth learning requires practice and failure. #Failup
 - Just because it's hard doesn't mean you shouldn't try. 
-<br></br><br></br><br></br><br></br>
+<br>
+<br>
+<br>
+<br>
 
 
   
 ### I had Carne Asada last night. And it was delicious. :heart_eyes: :drooling_face:
 
 One of my favorite foods by far. *Carne Asada street tacos... Carne Asada burritos...with guac, Carne Asada Nachos*... the list goes on and on.
-<br></br> 
+<br><br><br>
 
   
 ![carne asada finished](https://images.unsplash.com/photo-1586840239918-bbbc9cfff948?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60)
@@ -23,7 +26,7 @@ One of my favorite foods by far. *Carne Asada street tacos... Carne Asada burrit
 <br>
 <br>
 *The secret is in the marinade.*
-<br></br> 
+<br><br><br>
 
 
 **If you too would love some great carne asada, here's what you'll need:**
@@ -42,16 +45,20 @@ One of my favorite foods by far. *Carne Asada street tacos... Carne Asada burrit
 - 1 tsp. black pepper
 - 1 tsp. crushed red pepper flakes (optional)
 - 3 lbs. Skirt steak
-
+<br><br><br>
 <p align="center">
   <img src="https://media3.giphy.com/media/l4SHS5CojUqEpZsEI4/giphy.gif">
 </p>
+<br><br><br>
 
 # After you've gathered your ingredients...
+
 1. Whisk all the marinade ingredients into a bowl.
 1. Add meat and marinade to a large plastic bag. Marinate for 4 or more hours, or overnight.
 1. Barbecue on high heat, until charred on the surface, and cooked to medium-rare or medium.
 <br> -if you can't use a barbeque, try a cast iron!
+
+
 
 # And there you have it... 
 
@@ -59,7 +66,7 @@ One of my favorite foods by far. *Carne Asada street tacos... Carne Asada burrit
   <img src="https://media3.giphy.com/media/lONiIfqqm0My4o1bPW/giphy.gif">
 </p>
 
-
+<br><br><br>
 ## Grocery List
 
 Basics | Produce
