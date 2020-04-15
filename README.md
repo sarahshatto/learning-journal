@@ -21,4 +21,6 @@ Code 102 learning journal
 ## Read Reflection02
 - Note taking on text editors. <br> - [Link to ReadReflection02](./ReadReflection02.md)
 
+## Read Reflection03
+- Note taking on Git. <br> - [Link to ReadReflection03](./ReadReflection03.md)
 
