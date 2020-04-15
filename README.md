@@ -25,7 +25,7 @@ Code 102 learning journal
 - Note taking on Git. <br> - [Link to ReadReflection03](./ReadReflection03.md)
 
 ## Read Reflection04
-- Note taking on Git. <br> - [Link to ReadReflection04]( ) Need to do 
+- Note taking on Git. <br> - [Link to ReadReflection04](./ReadReflection04.md)
 
 ## Read Reflection05
 - Note taking on Git. <br> - [Link to ReadReflection05](./ReadReflection05.md)
