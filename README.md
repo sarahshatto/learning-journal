@@ -24,3 +24,9 @@ Code 102 learning journal
 ## Read Reflection03
 - Note taking on Git. <br> - [Link to ReadReflection03](./ReadReflection03.md)
 
+## Read Reflection04
+- Note taking on Git. <br> - [Link to ReadReflection04]( ) Need to do 
+
+## Read Reflection05
+- Note taking on Git. <br> - [Link to ReadReflection05](./ReadReflection05.md)
+

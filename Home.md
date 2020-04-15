@@ -12,7 +12,9 @@
 - Reflections
   - [Reading Reflection 01](./ReadReflection01.md) 
   - [Reading Reflection 02](./ReadReflection02.md)
-  - [Reading Reflection 03](./ReadReflection03.md) 
+  - [Reading Reflection 03](./ReadReflection03.md)
+  - [Reading Reflection 04](./ReadReflection04.md) 
+  - [Reading Reflection 05](./ReadReflection05.md)  
   
   ></p>
 
