@@ -23,3 +23,57 @@ By using a Version Control System, mistakes can easily be revisited and correcte
 
 ### Distributed Version Control Systems 
 
+    Eliminated the main vulnerability in CVCS of having everything rest on a single server. DVCS allows clients to create mirrored repositories. These data backups can be easily uploaded on the server if needed. DVCS allows for multiple mirrored repositories, which opens dooes for further innovation in joint collaboration. 
+<br><br><br><br>
+
+## So... What is Git?
+
+<br>
+
+**_Git is a DVCS_** that stores data in a file system made up of snapshots. 
+- Every time you commit, Git creates a snapshot of the file and stores a reference to it. 
+  - If a file hasn't changed, git will store a reference to the already stored version of it. 
+- Mostly relies on local operations
+  - Makes everything faster as history is stored on the local disk. 
+  - This allows clients to work offline and or use a VPN. 
+- Every change is tracked. Any corruption or lost data will be detected by git. 
+
+### Files in git can reside in three states: 
+
+*commited, modified, and staged.* 
+
+<br><br>
+1. **Committed** files are securely stored in a local database. 
+1. **Modified** files have been changed but are not committed to the database. 
+1. **Staged** files are flagged as 'to be committed' in the next snapshot. 
+
+### Getting Help with Git in terminal
+- Commands: 
+
+        man git
+        git help   
+
+
+### Setting up a Git Repository: 
+
+To import an existing project or directory into git...
+<br>
+
+1. Switch to project directory
+        
+        $ cd test
+
+
+1. Use git init command
+        
+        $ git init
+
+      - This has created a sub-directory named .git that has all of the repositories. Tracking has not yet commenced. 
+
+1. To start tracking repositories, perform an initial commit with the following commands: 
+        
+        $ git add *.c
+        $ git add LICENSE
+        $ git commit -m "insert comment here"
+
+
