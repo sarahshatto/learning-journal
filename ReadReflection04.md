@@ -38,4 +38,18 @@
     - position of the person viewing your content
     - will visitors be using the site for themselves or for a client ?
     - How large is overall budget? 
-    
+
+- WHAT 
+  - What are users trying to acheive? 
+  - what info do they need? 
+  - level of existing knowledge? 
+
+- HOW 
+  - How often will people visit your website? 
+  - How often will your services change? 
+
+## Site Maps 
+- used to organize the information into sections or pages. 
+
+- 
+
