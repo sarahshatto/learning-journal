@@ -49,3 +49,54 @@
       - Ex. true / false
 
 -Numbers can also be used for tasks like moving an element on a page or determining the size of a screen
+
+## Using a variable to store a number
+
+- Define the variables to be used 
+
+Ex: 
+
+Var price; 
+Var quantity; 
+Var total; 
+
+- Assign value to the defined variables
+
+price = 5; 
+quantity = 14; 
+total = price * quantity; 
+
+-Another way to define variables is to define a variable based off of corresponding HTML that is linked. 
+
+Ex: <br>
+
+var el=document.getElementById('cost');
+el.textContent = '$' + total; 
+
+- This first line of code looks for an element in the html with the Id of 'cost' identified and defines the "el" variable with whatever was identified.
+
+- The second line takes that "el" variable and replaces with the identified value, and uses the value in the equation listed.
+
+## Using a variable to store a boolean
+
+- boolean variables can only have a value of true/false. 
+- can be correlated with CSS rules that indicate a visual representation for true/false value 
+
+- popular use: When the value can only be true/false, or 1/0
+- another popular use is to use boolean variables in paths, where the true/false result will send people into different paths. 
+
+## Shorthand for defining variables:
+- Examples on Page 67
+
+- You can change the values of a variable within the same script.
+  - No need to use the var ____ line, you can just take the existing value and use an = to equate it to something else. 
+
+  ## Rules for naming variables:
+
+1. Name must begin with a letter, $, or _. Cannot be a number. 
+1. No dashes or periods
+1. Cannot use keywords or reserved words.
+1. Case sensitive.
+1. Use a name that indicates what kind of data the variable will be storing. 
+1. Use CamelCase. Ex: FirstName, LastName
+
