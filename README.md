@@ -25,11 +25,13 @@ Code 102 learning journal
 - Note taking on Git. <br> - [Link to ReadReflection03](./ReadReflection03.md)
 
 ## Read Reflection04
-- Note taking on Git. <br> - [Link to ReadReflection04](./ReadReflection04.md)
+- Note taking on HTML & CSS, Design Theory. <br> - [Link to ReadReflection04](./ReadReflection04.md)
 
 ## Read Reflection05
-- Note taking on Git. <br> - [Link to ReadReflection05](./ReadReflection05.md)
+- Note taking on CSS, Chapters 10 & 11. <br> - [Link to ReadReflection05](./ReadReflection05.md)
 
 ## Read Reflection06
-- Note taking on Git. <br> - [Link to ReadReflection05](./ReadReflection06.md)
+- Note taking on JavaScript. <br> - [Link to ReadReflection06](./ReadReflection06.md)
 
+## Read Reflection06b
+- Note taking from provided Videos: How do computers work? <br> - [Link to ReadReflection06b](./ReadReflection06b.md)
