@@ -49,18 +49,3 @@
       - Ex. true / false
 
 -Numbers can also be used for tasks like moving an element on a page or determining the size of a screen
-
-- WHAT 
-  - What are users trying to acheive? 
-  - what info do they need? 
-  - level of existing knowledge? 
-
-- HOW 
-  - How often will people visit your website? 
-  - How often will your services change? 
-
-## Site Maps 
-- used to organize the information into sections or pages. 
-
-- 
-
