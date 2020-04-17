@@ -35,3 +35,6 @@ Code 102 learning journal
 
 ## Read Reflection06b
 - Note taking from provided Videos: How do computers work? <br> - [Link to ReadReflection06b](./ReadReflection06b.md)
+
+## Read Reflection07
+- Note taking on JavaScript. <br> - [Link to ReadReflection07](./ReadReflection07.md)

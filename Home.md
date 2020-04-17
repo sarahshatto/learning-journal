@@ -17,6 +17,7 @@
   - [Reading Reflection 05](./ReadReflection05.md)
   - [Reading Reflection 06](./ReadReflection06.md)   
   - [Reading Reflection 06b](./ReadReflection06b.md)  
+   - [Reading Reflection 07](./ReadReflection07b.md)  
   
   ></p>
 
