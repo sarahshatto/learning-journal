@@ -38,3 +38,6 @@ Code 102 learning journal
 
 ## Read Reflection07
 - Note taking on JavaScript. <br> - [Link to ReadReflection07](./ReadReflection07.md)
+
+## Read Reflection08
+- Note taking on JavaScript. <br> - [Link to ReadReflection08](./ReadReflection08.md)
